@@ -1,4 +1,4 @@
-This is exactly the same repository as Master-thesis. The notebooks in the current repository are accessible directly via GitHub, whereas in Master-thesis three notebooks need to be downloaded in order to be opened.
+This is exactly the same repository as Master-thesis-Predicting-individual-immigration-attitudes-of-Europeans. The notebooks in the current repository are accessible directly via GitHub, whereas in as Master-thesis-Predicting-individual-immigration-attitudes-of-Europeans, three notebooks need to be downloaded in order to be opened.
 
 This repository contains Jupyter notebooks with Python code used in the master’s thesis “Predicting Individual Attitudes Towards Immigration in Europe”.
 
