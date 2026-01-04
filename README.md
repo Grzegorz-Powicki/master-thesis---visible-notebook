@@ -1,1 +1,7 @@
-This is exactly the same repository as the 'Master-thesis'. Notebooks in the current repository are accessible via GitHub. In 'Master-thesis', 3 notebooks need to be downloaded to be opened.
+This is exactly the same repository as Master-thesis. The notebooks in the current repository are accessible directly via GitHub, whereas in Master-thesis three notebooks need to be downloaded in order to be opened.
+
+This repository contains Jupyter notebooks with Python code used in the master’s thesis “Predicting Individual Attitudes Towards Immigration in Europe”.
+
+The project focuses on building and comparing multiple machine learning models trained on socio-demographic data as well as variables related to trust in public institutions, with the aim of predicting whether an individual is more supportive of or opposed to immigration.
+
+Three notebooks — Main Code (preprocessing, Logistic Regression, XGBoost, LightGBM), Random Forest & CatBoost training, and Per country analysis — need to be downloaded to be opened locally. Alternatively, they can be viewed directly on GitHub via the master-thesis-visible-notebook directory.
